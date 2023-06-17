@@ -29,7 +29,7 @@ https://techfood-alvon.netlify.app
 Clone and move to the repository
 
 ```bash
-git clone https://github.com/AlvonJ/recipes-alvon
+git clone https://github.com/AlvonJ/techfood-alvon
 cd techfood-alvon
 ```
 
